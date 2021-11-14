@@ -1,5 +1,5 @@
 # Unity-AI
 
-## 1. Create Metaverse using Unity
-## 2. Make Avatar and Play Reversi game
-## 3. NPC trained by Reinforcement Learning 
+## 1. Create Metaverse and Avatar using Unity
+## 2. Make Socket and Reversi game with Python
+## 3. Train NPC using Reinforcement Learning 
